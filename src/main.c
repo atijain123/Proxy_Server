@@ -11,10 +11,10 @@
 HANDLE log_mutex;
 ServerConfig cfg;
 
-void make_timestamp(char *out) {
+void make_timestamp(char *outnow) {
     time_t now = time(0);
     struct tm *ti = localtime(&now);
-    strftime(out, 64, "%Y-%m-%d %H:%M:%S", ti);
+    strftime(outnow, 64, "%Y-%m-%d %H:%M:%S", ti);
 }
 
 void write_log_entry(char *client, char *target, int code) {
