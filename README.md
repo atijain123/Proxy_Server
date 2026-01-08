@@ -13,6 +13,7 @@ The project aims to showcase fundamental principles of computer networking and s
 * Compiled and maintained using a Makefile
 
 # Repository layout
+```text
 project/
 ├── Docs/
 │ └── DESIGN.md
@@ -25,7 +26,7 @@ project/
 │ ├── Makefile
 │ ├── main.c
 │ └── proxy_server.exe
-
+```
 # Directory Overview
 ## Docs/
 Contains DESIGN.md file.
