@@ -24,3 +24,15 @@
 [2026-01-08 14:12:04] Client=127.0.0.1 | Host=www.google.com | Code=200
 [2026-01-08 14:12:53] Client=127.0.0.1 | Host=www.facebook.com | Code=403
 [2026-01-08 14:13:04] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 14:58:11] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 14:58:19] Client=127.0.0.1 | Host=google.com | Code=200
+[2026-01-08 14:58:31] Client=127.0.0.1 | Host=facebook.com | Code=403
+[2026-01-08 14:58:44] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:00:39] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:00:58] Client=127.0.0.1 | Host=google.com | Code=200
+[2026-01-08 15:01:11] Client=127.0.0.1 | Host=facebook.com | Code=403
+[2026-01-08 15:01:22] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:02:53] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:03:06] Client=127.0.0.1 | Host=google.com | Code=200
+[2026-01-08 15:03:24] Client=127.0.0.1 | Host=facebook.com | Code=403
+[2026-01-08 15:03:38] Client=127.0.0.1 | Host=example.com | Code=200
