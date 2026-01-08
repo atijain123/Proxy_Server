@@ -36,3 +36,19 @@
 [2026-01-08 15:03:06] Client=127.0.0.1 | Host=google.com | Code=200
 [2026-01-08 15:03:24] Client=127.0.0.1 | Host=facebook.com | Code=403
 [2026-01-08 15:03:38] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:30:06] Client=127.0.0.1 | Request=example.com | Status=200
+[2026-01-08 15:30:23] Client=127.0.0.1 | Request=google.com | Status=200
+[2026-01-08 15:31:43] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2026-01-08 15:31:54] Client: 127.0.0.1 | Request: google.com | Status: 200
+[2026-01-08 15:34:30] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:34:41] Client=127.0.0.1 | Host=google.com | Code=200
+[2026-01-08 15:39:30] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:39:44] Client=127.0.0.1 | Host=www.google.com | Code=200
+[2026-01-08 15:40:13] Client=127.0.0.1 | Host=www.facebook.com | Code=403
+[2026-01-08 15:40:25] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:43:43] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:43:57] Client=127.0.0.1 | Host=www.google.com | Code=200
+[2026-01-08 15:45:38] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 15:45:54] Client=127.0.0.1 | Host=www.google.com | Code=200
+[2026-01-08 15:46:25] Client=127.0.0.1 | Host=www.facebook.com | Code=403
+[2026-01-08 15:46:36] Client=127.0.0.1 | Host=example.com | Code=200
