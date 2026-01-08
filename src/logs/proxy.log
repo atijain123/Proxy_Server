@@ -1,0 +1,26 @@
+[2025-12-25 19:24:20] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2025-12-25 19:25:26] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2025-12-25 19:26:13] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2025-12-25 19:26:14] Client: 127.0.0.1 | Request: www.google.com | Status: 200
+[2025-12-25 19:26:15] Client: 127.0.0.1 | Request: blocked.com | Status: 403
+[2025-12-25 19:26:46] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2025-12-25 19:26:47] Client: 127.0.0.1 | Request: www.google.com | Status: 200
+[2025-12-25 19:26:48] Client: 127.0.0.1 | Request: blocked.com | Status: 403
+[2026-01-08 03:03:59] 127.0.0.1 -> example.com | 200
+[2026-01-08 03:04:15] 127.0.0.1 -> www.google.com | 200
+[2026-01-08 03:04:26] 127.0.0.1 -> www.facebook.com | 200
+[2026-01-08 03:09:19] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2026-01-08 03:09:29] Client: 127.0.0.1 | Request: www.google.com | Status: 200
+[2026-01-08 03:09:39] Client: 127.0.0.1 | Request: www.facebook.com | Status: 403
+[2026-01-08 03:11:50] Client: 127.0.0.1 | Request: www.facebook.com | Status: 403
+[2026-01-08 03:18:51] Client: 127.0.0.1 | Request: www.facebook.com | Status: 403
+[2026-01-08 03:20:49] Client: 127.0.0.1 | Request: www.facebook.com | Status: 403
+[2026-01-08 03:24:12] Client: 127.0.0.1 | Request: www.facebook.com | Status: 403
+[2026-01-08 03:28:35] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2026-01-08 03:28:52] Client: 127.0.0.1 | Request: www.google.com | Status: 200
+[2026-01-08 03:29:19] Client: 127.0.0.1 | Request: www.facebook.com | Status: 403
+[2026-01-08 03:29:36] Client: 127.0.0.1 | Request: example.com | Status: 200
+[2026-01-08 14:11:53] Client=127.0.0.1 | Host=example.com | Code=200
+[2026-01-08 14:12:04] Client=127.0.0.1 | Host=www.google.com | Code=200
+[2026-01-08 14:12:53] Client=127.0.0.1 | Host=www.facebook.com | Code=403
+[2026-01-08 14:13:04] Client=127.0.0.1 | Host=example.com | Code=200
